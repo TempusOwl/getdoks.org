@@ -95,7 +95,7 @@ See also the Netlify docs: [Custom headers](https://docs.netlify.com/routing/hea
   package = "netlify-plugin-submit-sitemap"
 
  [plugins.inputs]
-    baseUrl = "https://getdoks.org"
+    baseUrl = "https://tempusowl.com"
     sitemapPath = "/sitemap.xml"
     providers = [
       "google",
