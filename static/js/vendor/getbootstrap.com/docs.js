@@ -501,7 +501,7 @@ function() {
         b.ctrlKey && b.key === '/' && (b.preventDefault(), a.focus())
     }), window.docsearch({
         apiKey: '6c5db5fe7b95a66bac9d52c18a63657a',
-        indexName: 'prod_tempusowl',
+        indexName: 'netlify_d836a4f4-95a8-4205-8592-79dd339bee3e_master_all',
         inputSelector: '#search-input',
         algoliaOptions: {
             facetFilters: ['version:' + b]
