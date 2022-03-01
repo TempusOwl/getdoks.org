@@ -500,8 +500,8 @@ function() {
     b = a.getAttribute('data-bd-docs-version'), document.addEventListener('keydown', function(b) {
         b.ctrlKey && b.key === '/' && (b.preventDefault(), a.focus())
     }), window.docsearch({
-        apiKey: 'd54380e2d56c2d40875475900ae9d1fe',
-        indexName: 'prod_db-blog',
+        apiKey: '6c5db5fe7b95a66bac9d52c18a63657a',
+        indexName: 'prod_tempusowl',
         inputSelector: '#search-input',
         algoliaOptions: {
             facetFilters: ['version:' + b]

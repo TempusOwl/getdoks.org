@@ -8,8 +8,8 @@ if (searchPlaceholder !== null) {
 
 docsearch({
   container: '#docsearch',
-  appId: 'G8T010XTUJ',
-  indexName: 'prod_db-blog',
-  apiKey: 'd54380e2d56c2d40875475900ae9d1fe',
+  appId: '6YP209XB51',
+  indexName: 'prod_tempusowl',
+  apiKey: '6c5db5fe7b95a66bac9d52c18a63657a',
   debug: false,
 });
