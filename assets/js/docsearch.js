@@ -10,6 +10,6 @@ docsearch({
   container: '#docsearch',
   appId: '6YP209XB51',
   indexName: 'netlify_d836a4f4-95a8-4205-8592-79dd339bee3e_master_all',
-  apiKey: '6c5db5fe7b95a66bac9d52c18a63657a',
+  apiKey: '5e9e7a5a9ae79dcf00c4762f73c01823',
   debug: false,
 });
