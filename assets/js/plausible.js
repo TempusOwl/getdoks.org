@@ -1,7 +1,7 @@
 import Plausible from 'plausible-tracker'
 
 const { trackPageview } = Plausible({
-  domain: 'tempusowl.com',
+  domain: 'competent-murdock-cb909c.netlify.app',
 })
 
 trackPageview()
