@@ -7,4 +7,4 @@ draft: false
 images: []
 ---
 
-{{< email user="hello" domain="competent-murdock-cb909c" >}}
+{{< email user="hello" domain="competent-murdock-cb909c.netlify.app" >}}

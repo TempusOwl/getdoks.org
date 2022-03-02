@@ -26,9 +26,9 @@ Breadcrumb navigation support is switched off per default. Activate it by settin
 ```html
 <nav aria-label="breadcrumb">
   <ol class="breadcrumb">
-    <li class="breadcrumb-item"><a href="https://competent-murdock-cb909c/">Home</a></li>
-    <li class="breadcrumb-item"><a href="https://competent-murdock-cb909c/docs/">Docs</a></li>
-    <li class="breadcrumb-item"><a href="https://competent-murdock-cb909c/docs/prologue/">Prologue</a></li>
+    <li class="breadcrumb-item"><a href="https://competent-murdock-cb909c.netlify.app/">Home</a></li>
+    <li class="breadcrumb-item"><a href="https://competent-murdock-cb909c.netlify.app/docs/">Docs</a></li>
+    <li class="breadcrumb-item"><a href="https://competent-murdock-cb909c.netlify.app/docs/prologue/">Prologue</a></li>
     <li class="breadcrumb-item active" aria-current="page">Introduction</li>
   </ol>
 </nav>

@@ -55,7 +55,7 @@ See also the Hugo docs: [Menus](https://gohugo.io/content-management/menus/).
   name = "Tutorial"
   weight = 50
   identifier = "tutorial"
-  url = "https://competent-murdock-cb909c/tutorial/introduction/"
+  url = "https://competent-murdock-cb909c.netlify.app/tutorial/introduction/"
   parent = "get-started"
 ```
 

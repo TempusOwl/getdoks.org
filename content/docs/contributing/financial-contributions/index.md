@@ -17,7 +17,7 @@ We use [Open Collective](https://opencollective.com/) to receive contributions, 
 
 ## Become a Sponsor
 
-Become a sponsor starting at $100.00 per month. Your logo — with a link to your website — will show up on the [Doks website](https://competent-murdock-cb909c/), the [Doks repository](https://github.com/h-enk/doks), and the [Doks Open Collective page](https://opencollective.com/doks).
+Become a sponsor starting at $100.00 per month. Your logo — with a link to your website — will show up on the [Doks website](https://competent-murdock-cb909c.netlify.app/), the [Doks repository](https://github.com/h-enk/doks), and the [Doks Open Collective page](https://opencollective.com/doks).
 
 [![Become a Sponsor](contribute-button.png)](https://opencollective.com/doks/contribute/sponsor-31303/checkout)
 

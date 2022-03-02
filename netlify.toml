@@ -25,7 +25,7 @@
   package = "netlify-plugin-submit-sitemap"
 
 	[plugins.inputs]
-    baseUrl = "https://competent-murdock-cb909c"
+    baseUrl = "https://competent-murdock-cb909c.netlify.app"
     sitemapPath = "/sitemap.xml"
     providers = [
       "google",
