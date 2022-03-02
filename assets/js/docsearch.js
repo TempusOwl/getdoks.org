@@ -8,8 +8,8 @@ if (searchPlaceholder !== null) {
 
 docsearch({
   container: '#docsearch',
-  appId: '6YP209XB51',
-  indexName: 'netlify_d836a4f4-95a8-4205-8592-79dd339bee3e_master_all',
-  apiKey: '5e9e7a5a9ae79dcf00c4762f73c01823',
-  debug: true,
+  appId: 'KMWY81ZWS3',
+  indexName: 'getdoks',
+  apiKey: '56b742bf9ec666576cea28d77030d54b',
+  debug: false,
 });

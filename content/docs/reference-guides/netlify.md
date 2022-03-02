@@ -95,7 +95,7 @@ See also the Netlify docs: [Custom headers](https://docs.netlify.com/routing/hea
   package = "netlify-plugin-submit-sitemap"
 
  [plugins.inputs]
-    baseUrl = "https://competent-murdock-cb909c.netlify.app"
+    baseUrl = "https://getdoks.org"
     sitemapPath = "/sitemap.xml"
     providers = [
       "google",

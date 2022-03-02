@@ -33,15 +33,15 @@ toc: true
 
 ## Improve documentation
 
-{{< alert icon="👉" text="The documentation lives in <a href=\"https://github.com/h-enk/getdoks.org/tree/master/content/docs\">`./content/docs/`</a> of the <a href=\"https://github.com/h-enk/getdoks.org\">`getdoks.org` repository</a>." />}}
+{{< alert icon="👉" text="The documentation lives in <a href=\"https://github.com/h-enk/competent-murdock-cb909c/tree/master/content/docs\">`./content/docs/`</a> of the <a href=\"https://github.com/h-enk/competent-murdock-cb909c\">`competent-murdock-cb909c` repository</a>." />}}
 
 - Follow the [GitHub flow](https://guides.github.com/introduction/flow/).
 - Follow the [Conventional Commits Specification](https://www.conventionalcommits.org/en/v1.0.0/)
 
 ### Create an issue
 
-- [Bug report](https://github.com/h-enk/getdoks.org/issues/new?template=bug-report---.md)
-- [Feature request](https://github.com/h-enk/getdoks.org/issues/new?template=feature-request---.md)
+- [Bug report](https://github.com/h-enk/competent-murdock-cb909c/issues/new?template=bug-report---.md)
+- [Feature request](https://github.com/h-enk/competent-murdock-cb909c/issues/new?template=feature-request---.md)
 
 ## Help others
 

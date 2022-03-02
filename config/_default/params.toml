@@ -9,7 +9,7 @@ description = "Doks is a Hugo theme for building secure, fast, and SEO-ready doc
 ## Open Graph
 images = ["doks.png"]
 ogLocale = "en_US"
-domainTLD = "tempusowl.com"
+domainTLD = "competent-murdock-cb909c"
 titleHome = "Doks Theme"
 
 ## Twitter Cards
@@ -51,7 +51,7 @@ lqipWidth = "20x"
 smallLimit = "600"
 
 # Footer
-footer = "Powered by <a class=\"text-muted\" href=\"https://www.netlify.com/\">Netlify</a>, <a class=\"text-muted\" href=\"https://gohugo.io/\">Hugo</a>, and <a class=\"text-muted\" href=\"https://getdoks.org/\">Doks</a>"
+footer = "Powered by <a class=\"text-muted\" href=\"https://www.netlify.com/\">Netlify</a>, <a class=\"text-muted\" href=\"https://gohugo.io/\">Hugo</a>, and <a class=\"text-muted\" href=\"https://competent-murdock-cb909c/\">Doks</a>"
 
 # Feed
 copyRight = "Copyright (c) 2020-2022 Henk Verlinde"
@@ -66,7 +66,7 @@ alertText = "Multi level section menu — <strong>automatically</strong> generat
 # alertText = "What Doks future features are important to you? <a class=\"alert-link stretched-link\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSe0DItAFv2cNSC0S_L6DQBw9ofB0ogYvZqeoWHHRX-Aal-5zQ/viewform?usp=sf_link\" target=\"_blank\" rel=\"noopener\">Take the 2021 Doks Survey</a>"
 
 # Edit Page
-docsRepo = "https://github.com/h-enk/getdoks.org"
+docsRepo = "https://github.com/h-enk/competent-murdock-cb909c"
 editPage = true
 
 [options]

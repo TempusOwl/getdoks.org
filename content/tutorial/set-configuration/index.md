@@ -117,7 +117,7 @@ Optionally, change footer message — please leave as is:
 
 ```toml
 # Footer
-footer = "Powered by <a href=\"https://www.netlify.com/\">Netlify</a>, <a href=\"https://gohugo.io/\">Hugo</a>, and <a href=\"https://getdoks.org/\">Doks</a>"
+footer = "Powered by <a href=\"https://www.netlify.com/\">Netlify</a>, <a href=\"https://gohugo.io/\">Hugo</a>, and <a href=\"https://competent-murdock-cb909c/\">Doks</a>"
 ```
 
 ## Feed

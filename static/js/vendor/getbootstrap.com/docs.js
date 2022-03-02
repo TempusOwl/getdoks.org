@@ -500,8 +500,8 @@ function() {
     b = a.getAttribute('data-bd-docs-version'), document.addEventListener('keydown', function(b) {
         b.ctrlKey && b.key === '/' && (b.preventDefault(), a.focus())
     }), window.docsearch({
-        apiKey: '5e9e7a5a9ae79dcf00c4762f73c01823',
-        indexName: 'netlify_d836a4f4-95a8-4205-8592-79dd339bee3e_master_all',
+        apiKey: '5990ad008512000bba2cf951ccf0332f',
+        indexName: 'bootstrap',
         inputSelector: '#search-input',
         algoliaOptions: {
             facetFilters: ['version:' + b]
